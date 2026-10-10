@@ -1,0 +1,8 @@
+python-dotenv
+requests
+numpy
+pandas
+sentence-transformers
+chromadb
+pysolr
+rank-bm25

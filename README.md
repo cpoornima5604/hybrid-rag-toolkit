@@ -172,7 +172,7 @@ Not every listed technology is necessarily implemented. The architecture is inte
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-rag-toolkit.git
+git clone https://github.com/cpoornima5604/hybrid-rag-toolkit.git https://github.com/cpoornima5604/hybrid-rag-toolkit.git
 cd hybrid-rag-toolkit
 ```
 
@@ -303,9 +303,9 @@ This project is intended to be open source. A license will be selected and inclu
 
 For questions, collaboration, or technical discussion:
 
-- GitHub: `https://github.com/YOUR_USERNAME`
-- Project repository: `https://github.com/YOUR_USERNAME/hybrid-rag-toolkit`
-- Email: `contact@YOUR_DOMAIN`
+- GitHub: `https://github.com/cpoornima5604`
+- Project repository: `https://github.com/cpoornima5604/hybrid-rag-toolkit`
+- Email: `contact@Contact information will be added soon.`
 
 Replace the placeholders with your actual project links and contact information.
 
